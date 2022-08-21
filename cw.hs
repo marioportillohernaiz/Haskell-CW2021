@@ -1,4 +1,4 @@
---Mario Portillo Hernaiz F118326
+--Mario Portillo Hernaiz
 --Semester 1 Funtional Programming
 
 ------ PART 1a -------------------------------------------
